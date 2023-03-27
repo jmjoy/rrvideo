@@ -21,6 +21,9 @@
     "minimist": "^1.2.5",
     "puppeteer": "^18",
     "rrweb-player": "^1.0.0-alpha.4",
-    "typescript": "^4.0.5"
+    "typescript": "^4.0.5",
+    "bufferutil": "^4.0.1",
+    "utf-8-validate": "^5.0.2",
+    "encoding": "^0.1.0"
   }
 }
